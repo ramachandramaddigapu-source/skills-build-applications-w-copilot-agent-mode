@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
+// added exact react 19
   return (
     <>
       <section id="center">
